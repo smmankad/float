@@ -5,7 +5,7 @@ The &amp;&amp;float Interactive Wall Installation Project
 
 Things you'll need for this to run: <br />
 1. Processing (download from www.processing.org) <br />
-2. The Motion Tracking Library <br />
+2. The Motion Tracking Library (plus: Quicktime; and WinVDIG 1.0.1 if you're using Windows). WinVDIG is in the dependencies folder, it can also be downloaded from http://www.eden.net.nz/7/20071008/ . Note that only version 1.0.1 will work, no other.<br />
 3. A (Wide Angle) WebCam - faster the frame rate, the better - this works with regular VGA Cameras too, but performance may not be up to the mark <br />
 4. A blank wall/flat surface <br />
 5. A computer with Windows/Mac <br />
