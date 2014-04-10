@@ -5,7 +5,7 @@ The &amp;&amp;float Interactive Wall Installation Project
 
 #####Things you'll need for this to run:
 
-1. Processing (download from www.processing.org or from the dependencies folder).
+1. Processing (download from www.processing.org).
 2. The Flob Motion Tracking Library by s373 (plus: Quicktime; and WinVDIG 1.0.1 if you're using Windows). WinVDIG is in the dependencies folder with the Quicktime 7 setup, it can also be downloaded from http://www.eden.net.nz/7/20071008/ . Note that only version 1.0.1 will work, no other.
 3. A (Wide Angle) WebCam - faster the frame rate, the better - this works with regular VGA Cameras too, but performance may not be up to the mark.
 4. A blank wall/flat surface.
