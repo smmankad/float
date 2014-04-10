@@ -12,8 +12,8 @@ Things you'll need for this to run: <br />
 6. A projector (to project the visualizations onto the wall) <br />
 
 
-TODOs/Upcoming Wishlisted Features
------------------------------------
+<b>TODOs/Upcoming Wishlisted Features</b>
+
 1. Microsoft Kinect Support
 2. Linux and Mac Platform Support
 3. Projection Mapping Support
@@ -25,7 +25,7 @@ Demo Video: https://www.youtube.com/watch?v=OGoZktCzMS4
 
 A project by Siddharth Mankad and Sunil Vallu
 
-Get in Touch - Twitter: http://twitter.com/smmankad and https://twitter.com/sunilvallu
+Get in Touch - Twitter: https://twitter.com/smmankad and https://twitter.com/sunilvallu
 
 
 This program is free software: you can redistribute it and/or modify
